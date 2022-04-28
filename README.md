@@ -1,1 +1,1 @@
-# controlling-Volume-and-Brightness-uisng-Hand-Gesture
+# controlling Brightness-uisng-Hand-Gesture
